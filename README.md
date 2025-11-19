@@ -1,9 +1,9 @@
 ## Hello There!
 
- ／l、             
-（ﾟ､ ｡ ７         
-  l  ~ヽ       
-  じしf_,)ノ
+  ／l、             
+ （ﾟ､ ｡ ７         
+   l  ~ヽ       
+   じしf_,)ノ
 ```python
 class more_about_me:
   """
