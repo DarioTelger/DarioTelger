@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello There!
 
-<!--
-**DarioTelger/DarioTelger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ／l、             
+（ﾟ､ ｡ ７         
+  l  ~ヽ       
+  じしf_,)ノ
+```python
+class more_about_me:
+  """
+  I'm Dario and I'm currently a B.Sc Computer Science Student at the TUHH (Technische Universität Hamburg).
+  """
+  def __init__ (self):
+    self.role = "Software Developer/Student"
+    self.location = "Hamburg/Germany"
 
-Here are some ideas to get you started:
+    self.languages = ["C/C++","Python"]
+    self.tools = ["VSCode", "Git"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    self.want_to_learn = ["Java","Gleam","Go","C#"]
+    self.current_favorite_distro  = "EndeavourOS"
+```
